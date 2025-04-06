@@ -33,6 +33,8 @@
     Make sure you have Python 3 installed, then install the required dependencies:
 
     ```
+    python3 -m venv venv
+    source venv/bin/activate
     pip install -r requirements.txt
     ```
 
